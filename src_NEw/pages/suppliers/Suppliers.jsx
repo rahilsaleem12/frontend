@@ -1,0 +1,1 @@
+export { Suppliers as default } from '../products/Inventory';
